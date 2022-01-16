@@ -24,3 +24,4 @@ $ git clone <https://github.com/maria-bruner/controle-financas-pessoais>
 ```
 
 ##### Swagger:
+![Swagger](https://user-images.githubusercontent.com/82327108/149672525-0a264d0a-6377-4071-9d2a-99ac855a3b2d.png)
