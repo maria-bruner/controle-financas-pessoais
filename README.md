@@ -1,6 +1,6 @@
 # Desafio PubFuture 💻  
 
-## Sistea de controle de finanças pessoais ⭐
+## Sistema de controle de finanças pessoais ⭐
 
 #### Tecnologias: 🔥
 - C#.
