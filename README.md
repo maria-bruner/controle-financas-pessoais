@@ -4,7 +4,7 @@
 
 #### Tecnologias: 🔥
 - C#.
-- .ASP.NET Core 5.0.
+- .NET Core 5.0.
 - Microsoft EntityFrameworkCore.
 - Swashbuckle AspNetCore Swagger.
 
